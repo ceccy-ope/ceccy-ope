@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Ceccy, a web deeloper
 
 <!--
 **ceccy-ope/ceccy-ope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
